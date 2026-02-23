@@ -1,29 +1,17 @@
-# Tourism Experience Analytics
+# Tourism Experience Analytics ML
 
-## Project Overview
-This project aims to analyze tourism experiences using machine learning models to improve service delivery and customer satisfaction.
+Streamlit App: [https://tourism-experience-analytics-ml-menp69i48z6yecw94pqnhv.streamlit.app/](https://tourism-experience-analytics-ml-menp69i48z6yecw94pqnhv.streamlit.app/)
 
-## Technologies Used
-- Python
-- Pandas
-- Scikit-learn
-- Streamlit
+## Overview
 
-## Files
-- `app.py`: Main application file.
-- `model.py`: Contains the machine learning model.
-- `data/`: Directory for data files.
-- `requirements.txt`: Lists Python dependencies.
+... (existing content of README.md) ...
 
-## How to Run
-1. Clone the repository.
-2. Install required packages using `pip install -r requirements.txt`.
-3. Run the app using `streamlit run app.py`.
+## Live Demo
 
-## Model Explanation
-The model uses various algorithms to predict tourism trends and customer preferences based on historical data. The main focus is on regression analysis to forecast potential service improvements.
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black.svg)](https://tourism-experience-analytics-ml-menp69i48z6yecw94pqnhv.streamlit.app/)
+
+---
 
 ## Notes & Next Steps
-- Improve model accuracy by incorporating more data.
-- User feedback integration for further enhancement of the application.
-- Explore additional machine learning techniques for better insights.
+
+... (existing content of README.md) ...
